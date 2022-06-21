@@ -1,5 +1,5 @@
 
-# Flash Chat ⚡️
+# Flash Chat Flutter app ⚡️
 
 ## Our Goal
 
